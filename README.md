@@ -1,98 +1,41 @@
-# 📊 Corporate Financial Health Monitor (Power BI Dashboard)
+# Corporate Financial Health Monitor — Nifty 50
 
-## 🚀 Overview
+## Engagement Summary
+Client: Fictitious PE Fund
+Engagement: Financial Health Screening — 25 NSE Listed Companies
+Prepared by: [Your Name] | April 2026
 
-This project is a **Power BI dashboard** designed to analyze and monitor the financial health of companies based on key financial metrics.
+## Key Findings
+- 4 companies identified as High Leverage Risk with D/E above 150
+- 3 Hidden Gems found — Undervalued with Health Score above 60
+- IT and Financial Services sectors lead with avg health scores of 86 and 78
 
-It provides interactive visualizations to evaluate company performance, risk levels, and financial strength.
+## Recommendations
+- Prioritize HDFC Bank, Infosys, TCS for investment screening
+- Flag Tata Steel, JSW Steel, Hindalco for further risk review
+- Hidden Gems warrant deeper due diligence before investment decision
 
----
+## Tech Stack
+| Tool | Purpose |
+|------|---------|
+| Beautiful Soup | Scraped Nifty 50 company list from Wikipedia |
+| yfinance | Pulled live financial data from Yahoo Finance |
+| Python / Pandas | Data cleaning and ratio calculations |
+| DuckDB / SQL | 10 business queries with window functions |
+| Excel / openpyxl | 5 sheet financial model with DCF valuation |
+| Power BI | 5 page executive due diligence dashboard |
 
-## 🎯 Key Features
+## Project Architecture
 
-* 📈 **Financial Health Score Analysis**
-* 🏢 **Company-wise performance comparison**
-* ⚠️ **Risk classification (High / Medium / Low)**
-* 📊 **Interactive filters (Slicers)**
-* 🎨 **Conditional formatting for better insights**
-* 📉 **Debt-to-Equity and Profit Margin analysis**
+## Dashboard Pages
+1. Market Overview — KPIs and health score rankings
+2. Ratio Deep Dive — Detailed ratios with scatter plot
+3. Red Flag Monitor — High risk companies flagged
+4. Peer Benchmarking — Sector vs sector comparison
+5. Investment Signal — Buy / Avoid / Watch signals
 
----
-
-## 📊 Dashboard Components
-
-### 1. KPI Cards
-
-* Total Companies Analyzed
-* Average Health Score
-* Strong Companies Count
-* High Leverage Risk Count
-
-### 2. Visualizations
-
-* 📊 Bar Chart → Financial Health Score by Company
-* 🍩 Donut Chart → Sector-wise Distribution
-* 📋 Table → Detailed company metrics
-
-### 3. Filters (Slicers)
-
-* Filter by **Sector**
-* Filter by **Health Rating**
-
----
-
-## 🎨 Design Highlights
-
-* Conditional coloring:
-
-  * 🟢 High Performance
-  * 🟡 Medium Performance
-  * 🔴 Low Performance
-* Clean and modern UI layout
-* Page navigation bar for multi-page analysis
-
----
-
-## 🛠️ Tools & Technologies
-
-* **Power BI**
-* Data Visualization Techniques
-* DAX (for calculated measures)
-* Data Modeling
-
----
-
-## 📂 File Information
-
-* `Corporate Financial Health Monitor.pbix` → Main Power BI file
-
----
-
-## ▶️ How to Use
-
-1. Download the `.pbix` file
-2. Open in **Power BI Desktop**
-3. Use slicers to filter data
-4. Navigate between pages using the top menu
-
----
-
-## 📌 Insights Generated
-
-* Identify financially strong vs weak companies
-* Compare sectors based on performance
-* Analyze leverage risk across companies
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository and improve the dashboard.
-
----
-
-## ⭐ Show your support
-
-If you like this project, give it a ⭐ on GitHub!
-
----
+## Methodology
+Health Score is a composite metric scored out of 100 based on
+Profitability, ROE, Leverage, Valuation and Revenue Growth.
+This mirrors the financial screening frameworks used by Big 4
+Transaction Advisory teams in M&A due diligence engagements.
