@@ -1,0 +1,26 @@
+Company,Symbol,Sector,Market_Cap_Cr,PE_Ratio,PB_Ratio,EV_EBITDA,Revenue_Cr,Net_Profit_Margin,EBITDA_Margin,ROE,ROA,Debt_to_Equity,Current_Ratio,EPS,Book_Value,Revenue_Growth_YoY,Earnings_Growth_YoY,PEG_Ratio,Earnings_Quality,Leverage_Risk,Valuation_Tag,Growth_Tag,Health_Score,Health_Rating,Health_Rank
+HDFC Bank,HDFCBANK.NS,Financial Services,1252164.79,18.137125,2.2150245,16.518,284533.09,26.19,34.047000000000004,14.02,1.75,0.0,1.812,44.85,367.242,26.4,11.5,1.58,20.1,Low,Fairly Valued,High Growth,92, Strong,1
+Axis Bank,AXISBANK.NS,Financial Services,412125.57,15.65875,1.9876887,16.518,76843.57,34.17,44.42100000000001,13.63,1.56,0.0,1.812,84.63,666.704,5.7,3.8,4.12,23.9,Low,Fairly Valued,Moderate Growth,87, Strong,2
+ICICI Bank,ICICIBANK.NS,Financial Services,936822.96,17.652138,2.6827388,16.518,192470.25,27.51,35.763000000000005,16.8,2.14,0.0,1.812,74.11,487.636,3.0,-3.7,,22.16,Low,Fairly Valued,Low Growth,82, Strong,3
+Infosys,INFY.NS,Information Technology,543908.69,18.756628,6.3005424,1236.579,1984.7,16.15,22.07,32.68,15.67,10.531,1.812,71.66,213.33084,3.2,-5.3,,24.42,Low,Fairly Valued,Low Growth,80, Strong,4
+HCLTech,HCLTECH.NS,Information Technology,393834.76,23.371868,5.1936464,1368.119,1448.0,13.02,19.67,23.19,12.87,9.747,2.21,62.28,280.2655,7.4,-15.9,,18.1,Low,Fairly Valued,Moderate Growth,78, Strong,5
+ITC,ITC.NS,Fast Moving Consumer Goods,380519.97,18.473236,5.3556,13.185,79808.72,43.89,33.82,28.4,20.1,0.507,1.812,16.44,56.707,6.7,0.0,,21.94,Low,Fairly Valued,Moderate Growth,75, Strong,6
+Dr. Reddy's Laboratories,DRREDDY.NS,Healthcare,99078.79,17.515453,2.6607044,11.61,34583.1,16.36,24.52,16.1,7.96,18.026,1.88,67.94,447.25,4.4,-14.3,,16.23,Low,Fairly Valued,Low Growth,72, Strong,7
+Adani Ports & SEZ,ADANIPORTS.NS,Services,334765.25,25.181976,4.680092,16.518,36486.63,34.24,57.86,19.4,7.2,81.556,1.812,57.7,310.464,21.9,20.3,1.24,26.83,Medium,Fairly Valued,High Growth,70, Strong,8
+Eicher Motors,EICHERMOT.NS,Automobile and Auto Components,195380.3,36.551884,8.845014,33.91,22431.54,23.88,23.24,24.8,18.2,2.018,1.812,194.86,805.256,22.9,21.3,1.72,11.94,Low,Fairly Valued,High Growth,68, Moderate,9
+Bharat Electronics,BEL.NS,Capital Goods,314978.36,52.741737,14.618672,38.93,26535.27,22.48,29.5,27.1,16.4,0.273,1.812,8.17,29.476,24.0,20.7,2.55,11.24,Low,Overvalued,High Growth,68, Moderate,9
+Coal India,COALINDIA.NS,"Oil, Gas & Consumable Fuels",276953.01,9.279372,2.6268873,6.378,129602.95,23.04,31.89,52.3,18.6,12.976,1.812,48.43,171.077,-4.8,-15.9,,11.52,Low,Undervalued,Low Growth,65, Moderate,11
+Bharti Airtel,BHARTIARTL.NS,Telecommunication,1131369.15,35.987213,9.063714,12.555,203465.81,14.94,52.03,23.12,7.77,117.095,0.45,51.61,204.916,19.6,-55.3,,19.03,Medium,Fairly Valued,High Growth,63, Moderate,12
+HDFC Life,HDFCLIFE.NS,Financial Services,129404.42,68.320045,7.346601,58.155,104153.2,1.81,2.11,11.32,0.37,17.607,0.913,8.78,81.65,70.4,-1.0,,6.56,Low,Overvalued,High Growth,60, Moderate,13
+Hindustan Unilever,HINDUNILVR.NS,Fast Moving Consumer Goods,504977.0,49.90478,10.361987,33.973,65100.0,22.29,22.15,19.8,14.2,3.611,1.812,43.06,207.383,3.9,121.4,0.41,11.14,Low,Overvalued,Low Growth,58, Moderate,14
+Bajaj Auto,BAJAJ-AUTO.NS,Automobile and Auto Components,262232.11,29.14856,7.673331,18.231,59023.84,15.05,24.69,24.1,16.8,57.257,1.812,322.16,1223.784,23.1,25.0,1.17,7.52,Low,Fairly Valued,High Growth,55, Moderate,15
+Cipla,CIPLA.NS,Healthcare,97911.33,21.540785,2.9742522,13.676,27967.19,16.26,22.77,14.2,8.4,1.415,1.812,56.27,407.531,0.0,-57.0,,8.13,Low,Fairly Valued,Low Growth,53, Moderate,16
+Bajaj Finance,BAJFINANCE.NS,Financial Services,568982.08,31.572956,5.5076175,16.518,41283.33,43.68,56.784,21.4,3.8,310.294,1.812,28.99,166.188,6.4,-6.8,,21.84,High,Fairly Valued,Moderate Growth,48, Moderate,18
+Eternal,ETERNAL.NS,Consumer Services,223172.55,1055.3914,7.312988,-7309.417,42905.0,0.54,-0.07,8.2,4.1,10.875,1.812,0.23,33.193,201.9,83.3,12.67,0.27,Low,Overvalued,High Growth,48, Moderate,18
+Asian Paints,ASIANPAINT.NS,Consumer Durables,218252.76,56.905777,11.142215,35.561,34649.53,11.1,16.88,22.6,14.8,17.609,1.812,40.01,204.34,3.7,-4.6,,5.55,Low,Overvalued,Low Growth,48, Moderate,18
+Hindalco Industries,HINDALCO.NS,Metals & Mining,212721.18,13.166344,1.5660777,7.762,261701.0,6.14,13.01,11.2,4.8,57.571,1.812,72.26,607.505,13.9,-45.1,,3.07,Low,Undervalued,Moderate Growth,47, Moderate,20
+Adani Enterprises,ADANIENT.NS,Metals & Mining,278161.26,18.454866,4.58338,24.932,94995.16,14.11,13.6,9.4,2.8,177.767,1.812,110.67,445.61,8.6,9629.6,0.0,7.06,High,Fairly Valued,Moderate Growth,45, Moderate,21
+Grasim Industries,GRASIM.NS,Construction Materials,187880.99,41.61634,1.8863287,12.562,168596.89,2.67,19.85,4.2,1.8,126.634,1.812,66.57,1468.673,27.4,14.1,2.95,1.34,Medium,Overvalued,High Growth,33, Weak,23
+Apollo Hospitals,APOLLOHOSP.NS,Healthcare,105854.26,59.10879,11.64039,34.433,24215.2,7.44,13.27,16.8,6.2,83.606,1.812,124.55,632.453,17.2,35.0,1.69,3.72,Medium,Overvalued,High Growth,33, Weak,23
+Bajaj Finserv,BAJAJFINSV.NS,Financial Services,284929.61,29.791214,3.7111943,11.752,147030.36,6.58,36.87,12.4,2.1,237.537,1.812,59.87,480.6,24.8,-0.7,,3.29,High,Fairly Valued,High Growth,33, Weak,23
+IndiGo,INDIGO.NS,Services,177610.0,55.476395,20.567326,16.418,84675.4,3.79,13.44,98.4,4.2,866.462,1.812,82.81,223.364,6.2,-77.6,,1.9,High,Overvalued,Moderate Growth,23, Weak,25
